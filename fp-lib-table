@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "TE_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/TE_my.pretty")(options "")(descr ""))
   (lib (name "PLD_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/PLD_my.pretty")(options "")(descr ""))
+  (lib (name "power_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/power_my.pretty")(options "")(descr ""))
 )

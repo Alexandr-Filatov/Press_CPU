@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "2-215079-0")(type "KiCad")(uri "${KIPRJMOD}/Lib/2-215079-0.kicad_sym")(options "")(descr ""))
+  (lib (name "power_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/power_my.kicad_sym")(options "")(descr ""))
 )
