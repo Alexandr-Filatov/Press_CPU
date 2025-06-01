@@ -6911,12 +6911,6 @@
 		(uuid "503b322e-9d9a-4a5e-851c-ef2e26db4336")
 	)
 	(junction
-		(at 203.2 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5193d761-f7b6-41bb-9bf8-d922cd70d590")
-	)
-	(junction
 		(at 533.4 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6987,12 +6981,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86aad6d5-01f8-4e2c-8451-d3c335cbf8ce")
-	)
-	(junction
-		(at 203.2 278.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8cff3595-5b4e-4083-9787-d8834d38308a")
 	)
 	(junction
 		(at 228.6 330.2)
@@ -7219,12 +7207,36 @@
 		(uuid "0acc8b8b-ec22-4a46-9555-5ac9fad8a8a4")
 	)
 	(no_connect
+		(at 180.34 130.81)
+		(uuid "1e70c9cb-f35a-42ca-a7fc-f542f3379986")
+	)
+	(no_connect
 		(at 224.79 271.78)
 		(uuid "28083f4c-ce16-4ee9-ad0f-0137d2db1378")
 	)
 	(no_connect
+		(at 180.34 173.99)
+		(uuid "29c52e33-dd68-4047-ac4d-e92d97fa6f65")
+	)
+	(no_connect
+		(at 220.98 184.15)
+		(uuid "2ae1df4b-20a2-4841-b058-e90303004a8d")
+	)
+	(no_connect
 		(at 209.55 328.93)
 		(uuid "45c38bdd-05d0-416f-bee6-7444ab5ff846")
+	)
+	(no_connect
+		(at 180.34 168.91)
+		(uuid "614e4d75-3937-4201-84cd-5d874453f999")
+	)
+	(no_connect
+		(at 180.34 171.45)
+		(uuid "6f57b53c-d4b1-4825-b847-30d591498f00")
+	)
+	(no_connect
+		(at 220.98 163.83)
+		(uuid "a6718927-42c9-42db-85e4-8c47c0403a5c")
 	)
 	(no_connect
 		(at 212.09 328.93)
@@ -7882,16 +7894,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 278.13) (xy 203.2 278.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "301b4a22-9868-4c4e-82d0-636576f68e37")
-	)
-	(wire
-		(pts
 			(xy 448.31 128.27) (xy 458.47 128.27)
 		)
 		(stroke
@@ -7949,16 +7951,6 @@
 			(type default)
 		)
 		(uuid "3608d80d-591c-4a52-893b-67bf5dc5fef3")
-	)
-	(wire
-		(pts
-			(xy 195.58 273.05) (xy 203.2 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3638bf58-e9fb-4c1d-85e7-6af0c5efbe8c")
 	)
 	(wire
 		(pts
@@ -8722,7 +8714,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 273.05) (xy 205.74 273.05)
+			(xy 195.58 273.05) (xy 205.74 273.05)
 		)
 		(stroke
 			(width 0)
@@ -8992,7 +8984,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 278.13) (xy 205.74 278.13)
+			(xy 195.58 278.13) (xy 205.74 278.13)
 		)
 		(stroke
 			(width 0)
@@ -10422,6 +10414,28 @@
 			)
 		)
 	)
+	(global_label "DigIN4_MCU"
+		(shape input)
+		(at 220.98 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "07fe7552-778c-4d59-b3f0-e5ffd2cc7e48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.6414 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Current_C_MCU"
 		(shape output)
 		(at 547.37 349.25 0)
@@ -10748,6 +10762,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -10829,6 +10844,28 @@
 			)
 		)
 	)
+	(global_label "DigIN2_MCU"
+		(shape input)
+		(at 220.98 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25c37e7a-b859-4bb9-a444-a5c0079ced02")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.5136 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Temp_motor_sense_MCU"
 		(shape output)
 		(at 387.35 217.17 0)
@@ -10859,6 +10896,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -10988,6 +11026,28 @@
 			)
 		)
 	)
+	(global_label "DigIN3_MCU"
+		(shape input)
+		(at 220.98 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32dbc1fc-78d5-4d1d-a6ce-b4d5ad321f7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.5136 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Hall3_MCU"
 		(shape input)
 		(at 220.98 113.03 0)
@@ -11039,6 +11099,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -11140,28 +11201,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC8"
-		(shape input)
-		(at 220.98 120.65 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4751887f-3e15-42e9-a4b7-094dce0099c5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 227.6834 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -11301,6 +11340,28 @@
 			)
 		)
 	)
+	(global_label "DigIN1_MCU"
+		(shape input)
+		(at 220.98 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57c71977-a20d-4121-80b1-dc669a99e5ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.2593 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "AnalogIN1_MCU"
 		(shape output)
 		(at 458.47 128.27 0)
@@ -11308,6 +11369,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -11389,28 +11451,6 @@
 			)
 		)
 	)
-	(global_label "ADC16"
-		(shape input)
-		(at 220.98 158.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "65353ee9-37f4-43dc-87a5-39695edf087d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.3186 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Temp_mosfet_sense"
 		(shape input)
 		(at 60.96 199.39 180)
@@ -11436,7 +11476,7 @@
 	)
 	(global_label "EEPROM_~{CS_MCU}"
 		(shape input)
-		(at 220.98 123.19 0)
+		(at 220.98 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11446,29 +11486,7 @@
 		)
 		(uuid "6884286a-96d9-424b-acb9-45c4df58340a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 236.9642 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC9"
-		(shape input)
-		(at 256.54 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6a144c02-56b2-458f-93d9-3ca9e2f33b1e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.2434 110.49 0)
+			(at 236.9642 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11635,28 +11653,6 @@
 			)
 		)
 	)
-	(global_label "ADC12"
-		(shape input)
-		(at 256.54 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "85072c82-778f-455e-ac81-0217a090229b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.8786 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Hall3_MCU"
 		(shape output)
 		(at 547.37 219.71 0)
@@ -11806,28 +11802,6 @@
 		(uuid "98bc8ec0-152a-4992-b006-66e13ca07cdf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 85.3214 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC11"
-		(shape input)
-		(at 256.54 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9a380d02-84e8-4d96-86bf-72c44225f108")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.6243 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12017,22 +11991,22 @@
 	)
 	(global_label "EEPROM_SCK_MCU"
 		(shape bidirectional)
-		(at 220.98 125.73 0)
+		(at 180.34 161.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ab5abe85-c4cc-40c0-9904-d6d980c5e010")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.433 125.73 0)
+			(at 162.2271 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12106,6 +12080,28 @@
 			)
 		)
 	)
+	(global_label "AnalogIN1_MCU"
+		(shape input)
+		(at 220.98 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b2631c22-f9ed-4ac0-8c8f-7495ea16bfae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.1825 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Temp_motor_GND"
 		(shape input)
 		(at 91.44 199.39 180)
@@ -12129,31 +12125,31 @@
 			)
 		)
 	)
-	(global_label "ADC10"
+	(global_label "EEPROM_MISO_MCU"
 		(shape input)
-		(at 256.54 113.03 0)
+		(at 180.34 163.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "b38a4415-edfc-4147-9f5e-e0dc253cd017")
+		(uuid "b43b48c4-6d63-429e-8f53-b565cfea5408")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.8786 113.03 0)
+			(at 162.7031 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
-	(global_label "EEPROM_MISO_MCU"
+	(global_label "AnalogIN4_MCU"
 		(shape input)
-		(at 220.98 128.27 0)
+		(at 220.98 130.81 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12161,9 +12157,9 @@
 			)
 			(justify left)
 		)
-		(uuid "b43b48c4-6d63-429e-8f53-b565cfea5408")
+		(uuid "b684bbed-b5ca-486b-a16a-16df0da38531")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.6169 128.27 0)
+			(at 235.5647 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12335,6 +12331,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -12372,6 +12369,28 @@
 			)
 		)
 	)
+	(global_label "AnalogIN3_MCU"
+		(shape input)
+		(at 220.98 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c6293848-6718-418f-a16c-327d5a42682f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.4369 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "AnalogIN4_MCU"
 		(shape output)
 		(at 459.74 257.81 0)
@@ -12379,6 +12398,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -12440,22 +12460,22 @@
 	)
 	(global_label "EEPROM_MOSI_MCU"
 		(shape input)
-		(at 220.98 130.81 0)
+		(at 180.34 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "cb1f73cc-e5a1-417f-971a-086fe51f682b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.1684 130.81 0)
+			(at 162.7031 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12511,6 +12531,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -12628,6 +12649,28 @@
 		(uuid "da706b53-ce76-4bec-b983-96672948ee19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 247.6112 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "AnalogIN2_MCU"
+		(shape input)
+		(at 220.98 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dd4aa59b-58f1-48a5-8e9b-2574a25b8c3d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.4369 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12801,6 +12844,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 255 0 1)
 			)
 			(justify left)
 		)
@@ -14204,7 +14248,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "2.2u"
 			(at 190.5 276.86 0)
 			(effects
 				(font
@@ -25136,111 +25180,6 @@
 			(project "Press_CPU"
 				(path "/1f44d793-713f-4781-bd7e-20142de81965"
 					(reference "#PWR0115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 203.2 275.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c5a720d1-13b6-45ab-8b27-c357a11b0873")
-		(property "Reference" "C7"
-			(at 198.12 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1u"
-			(at 198.12 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Replacement" ""
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Purpose" ""
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description P/N" ""
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product Name" ""
-			(at 203.2 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e8e33061-2ab7-4d4e-991c-a1ffd6722cb6")
-		)
-		(pin "2"
-			(uuid "bd5783b4-35cf-4775-ad33-9c7d7611f061")
-		)
-		(instances
-			(project "Press_CPU"
-				(path "/1f44d793-713f-4781-bd7e-20142de81965"
-					(reference "C7")
 					(unit 1)
 				)
 			)
