@@ -17120,7 +17120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Product Name" "FYLS-0805UYC"
+		(property "Product Name" "FYLS-0603UYC"
 			(at 259.08 322.58 0)
 			(effects
 				(font
@@ -18919,7 +18919,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 140.97 0)
 			(effects
 				(font
@@ -18953,6 +18953,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -19063,7 +19071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GSOT03C-E3-08"
+		(property "Value" "~"
 			(at 261.62 156.21 0)
 			(effects
 				(font
@@ -19098,6 +19106,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "GSOT03C-E3-08"
+			(at 255.27 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -19721,7 +19737,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 270.51 0)
 			(effects
 				(font
@@ -19755,6 +19771,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -20270,7 +20294,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 312.42 0)
 			(effects
 				(font
@@ -20304,6 +20328,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -20485,7 +20517,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GSOT03C-E3-08"
+		(property "Value" "~"
 			(at 458.47 269.24 0)
 			(effects
 				(font
@@ -20515,6 +20547,15 @@
 		)
 		(property "Description" "TVS Diode Array, 5.5V Standoff, 2 Channels, SOT23"
 			(at 452.12 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "GSOT03C-E3-08"
+			(at 452.12 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20824,7 +20865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FM25W256"
+		(property "Value" "~"
 			(at 238.3189 372.11 0)
 			(effects
 				(font
@@ -20858,6 +20899,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "FM25W256"
+			(at 236.22 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21238,7 +21287,7 @@
 				)
 			)
 		)
-		(property "Value" "BLM21AG102SN1D"
+		(property "Value" "~"
 			(at 369.5192 212.09 90)
 			(effects
 				(font
@@ -21266,6 +21315,15 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
+			(at 369.57 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "BLM21AG102SN1D"
 			(at 369.57 217.17 0)
 			(effects
 				(font
@@ -21507,7 +21565,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "APM32F405RGT6"
+		(property "Value" "~"
 			(at 205.74 201.168 0)
 			(effects
 				(font
@@ -21542,6 +21600,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "APM32F405RGT6"
+			(at 200.66 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "60"
@@ -21831,7 +21897,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 354.33 0)
 			(effects
 				(font
@@ -21865,6 +21931,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -22150,7 +22224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GSOT03C-E3-08"
+		(property "Value" "~"
 			(at 458.47 223.52 0)
 			(effects
 				(font
@@ -22180,6 +22254,15 @@
 		)
 		(property "Description" "TVS Diode Array, 5.5V Standoff, 2 Channels, SOT23"
 			(at 452.12 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "GSOT03C-E3-08"
+			(at 452.12 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22491,7 +22574,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MBRA320"
+		(property "Value" "~"
 			(at 231.14 325.501 90)
 			(effects
 				(font
@@ -22520,6 +22603,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 228.6 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "MBRA320"
 			(at 228.6 323.85 0)
 			(effects
 				(font
@@ -22665,6 +22757,15 @@
 				(hide yes)
 			)
 		)
+		(property "Product Name" "NLC453232T-470K-PF"
+			(at 232.41 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "071196d2-53d6-4e91-8bcf-352a0a068ec7")
 		)
@@ -22768,7 +22869,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GSOT03C-E3-08"
+		(property "Value" "~"
 			(at 457.2 139.7 0)
 			(effects
 				(font
@@ -22798,6 +22899,15 @@
 		)
 		(property "Description" "TVS Diode Array, 5.5V Standoff, 2 Channels, SOT23"
 			(at 450.85 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "GSOT03C-E3-08"
+			(at 450.85 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22906,7 +23016,7 @@
 				)
 			)
 		)
-		(property "Value" "2-215079-0"
+		(property "Value" "~"
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -23010,6 +23120,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "2-215079-0"
+			(at 50.8 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -23548,7 +23667,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 224.79 0)
 			(effects
 				(font
@@ -23582,6 +23701,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -24401,6 +24528,15 @@
 				(hide yes)
 			)
 		)
+		(property "Product Name" "CM322522-2R2KL"
+			(at 302.26 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0eed6c30-0bcc-455e-bc98-b7a4e535fb28")
 		)
@@ -24498,7 +24634,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky_Small"
+		(property "Value" "~"
 			(at 291.084 342.9 0)
 			(effects
 				(font
@@ -24526,6 +24662,15 @@
 			)
 		)
 		(property "Description" "Schottky diode, small symbol"
+			(at 290.83 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "BAT46JFILM"
 			(at 290.83 339.09 0)
 			(effects
 				(font
@@ -24899,7 +25044,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV321"
+		(property "Value" "~"
 			(at 538.48 182.88 0)
 			(effects
 				(font
@@ -24933,6 +25078,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LMV321"
+			(at 535.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -25216,7 +25369,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSTCE8M00G55A-R0"
+		(property "Value" "~"
 			(at 156.21 125.73 90)
 			(effects
 				(font
@@ -25245,6 +25398,15 @@
 			)
 		)
 		(property "Description" "Three pin crystal, GND on pin 2"
+			(at 152.4 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "CSTCE8M00G55A-R0"
 			(at 152.4 124.46 0)
 			(effects
 				(font
@@ -25842,7 +26004,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse_Small"
+		(property "Value" "~"
 			(at 298.45 336.55 0)
 			(effects
 				(font
@@ -25870,6 +26032,24 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
+			(at 298.45 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Fuse"
+			(at 298.45 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "MF-PSMF050X-2"
 			(at 298.45 339.09 0)
 			(effects
 				(font
@@ -25978,7 +26158,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GSOT03C-E3-08"
+		(property "Value" "~"
 			(at 457.2 181.61 0)
 			(effects
 				(font
@@ -26008,6 +26188,15 @@
 		)
 		(property "Description" "TVS Diode Array, 5.5V Standoff, 2 Channels, SOT23"
 			(at 450.85 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "GSOT03C-E3-08"
+			(at 450.85 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26290,7 +26479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Product Name" "FYLS-0805UBC"
+		(property "Product Name" "FYLS-0603UBC"
 			(at 163.83 181.61 0)
 			(effects
 				(font
@@ -27017,7 +27206,7 @@
 				)
 			)
 		)
-		(property "Value" "LM2594HVM-3.3"
+		(property "Value" "~"
 			(at 214.63 312.42 0)
 			(effects
 				(font
@@ -27046,6 +27235,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 214.63 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "LM2594HVM-3.3"
 			(at 214.63 320.04 0)
 			(effects
 				(font
@@ -27605,7 +27803,7 @@
 				)
 			)
 		)
-		(property "Value" "BLM21AG102SN1D"
+		(property "Value" "~"
 			(at 369.5192 222.25 90)
 			(effects
 				(font
@@ -27633,6 +27831,15 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
+			(at 369.57 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "BLM21AG102SN1D"
 			(at 369.57 227.33 0)
 			(effects
 				(font
@@ -27877,7 +28084,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x16"
+		(property "Value" "~"
 			(at 68.58 217.17 0)
 			(effects
 				(font
@@ -27905,6 +28112,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 66.04 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "DS-1025-05 - 2x20"
 			(at 66.04 214.63 0)
 			(effects
 				(font
@@ -28322,7 +28538,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse_Small"
+		(property "Value" "~"
 			(at 297.18 311.15 0)
 			(effects
 				(font
@@ -28350,6 +28566,24 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
+			(at 297.18 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Fuse"
+			(at 297.18 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "MF-PSMF050X-2"
 			(at 297.18 313.69 0)
 			(effects
 				(font
@@ -29284,7 +29518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x16"
+		(property "Value" "~"
 			(at 99.06 214.63 0)
 			(effects
 				(font
@@ -29312,6 +29546,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 96.52 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "DS-1025-05 - 2x20"
 			(at 96.52 217.17 0)
 			(effects
 				(font

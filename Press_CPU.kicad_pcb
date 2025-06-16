@@ -24867,6 +24867,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "CPU VER1.0"
+		(at 127.25 115 0)
+		(layer "F.SilkS")
+		(uuid "4c218b81-304e-4873-857d-7e72d4035f07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "USER"
 		(at 150.5 91.5 0)
 		(layer "F.SilkS")
