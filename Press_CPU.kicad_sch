@@ -16979,7 +16979,7 @@
 		(fields_autoplaced yes)
 		(uuid "35e3fe71-bf8b-43b3-a00a-3ce8eb4448e2")
 		(property "Reference" "R45"
-			(at 506.73 212.09 0)
+			(at 506.73 212.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16987,8 +16987,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.8k"
-			(at 506.73 214.63 0)
+		(property "Value" "8.2k"
+			(at 506.73 214.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19951,7 +19951,7 @@
 		(fields_autoplaced yes)
 		(uuid "6867cdb3-8127-4deb-8521-f5508da12cd7")
 		(property "Reference" "R42"
-			(at 506.73 135.89 0)
+			(at 506.73 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19959,8 +19959,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.6k"
-			(at 506.73 138.43 0)
+		(property "Value" "36k"
+			(at 506.73 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22431,7 +22431,7 @@
 		(fields_autoplaced yes)
 		(uuid "89061add-a0e7-48e8-9108-305eb56b4b01")
 		(property "Reference" "R41"
-			(at 506.73 128.27 0)
+			(at 506.73 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22439,8 +22439,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.8k"
-			(at 506.73 130.81 0)
+		(property "Value" "8.2k"
+			(at 506.73 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25580,7 +25580,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1bcd1a5-4c0d-4fce-b5e4-1f838ed5fbf9")
 		(property "Reference" "R43"
-			(at 506.73 170.18 0)
+			(at 506.73 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25588,8 +25588,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.8k"
-			(at 506.73 172.72 0)
+		(property "Value" "8.2k"
+			(at 506.73 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25755,7 +25755,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4575bab-a488-4337-9781-92ffbae3b752")
 		(property "Reference" "R44"
-			(at 506.73 177.8 0)
+			(at 506.73 177.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25763,8 +25763,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.6k"
-			(at 506.73 180.34 0)
+		(property "Value" "36k"
+			(at 506.73 180.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26619,7 +26619,7 @@
 		(fields_autoplaced yes)
 		(uuid "bfaf4b6a-95da-453f-858d-fc66f8417e56")
 		(property "Reference" "R46"
-			(at 506.73 219.71 0)
+			(at 506.73 219.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26627,8 +26627,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.6k"
-			(at 506.73 222.25 0)
+		(property "Value" "36k"
+			(at 506.73 222.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26765,7 +26765,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "750"
+		(property "Value" "1k"
 			(at 260.35 326.39 0)
 			(effects
 				(font
